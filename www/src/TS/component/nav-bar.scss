@@ -1,0 +1,10 @@
+﻿$background-color: #334166;
+$font-color: #fff;
+
+.navbar {
+    background-color: $background-color;
+
+    .navlink {
+        color: $font-color;
+    }
+}
